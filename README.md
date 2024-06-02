@@ -26,22 +26,6 @@ Torch
 Numpy
 
 
-## Input
-
-image Y
-
-
-
-## Output
-endmembers and abundances of three different unmixing methods. (saved as a MAT file)
-
-
-
-## Testing
-    
-After training the MAHUM on the datasets, the extracted abundance and endmember results are saved as a MAT file. You can utilize `./displayresult.m` to evaluate the unmixing performance.
-
-
 
 
 ## Dataset
