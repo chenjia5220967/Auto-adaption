@@ -54,10 +54,11 @@ Thomson Lake: an airborne hyperspectral image about an area inside the city of W
 
 ## Experimental result
 
-### Comparison with other methods.
+### tangxun Lake.
 <p align="center">
-<img src="./result1.png" alt="drawing" width="700"/>
+<img src="./tangxunhu.png" alt="drawing" width="700"/>
 
 
-### Results of each part.
-<img src="./result2.png" alt="drawing" width="700"/>
+### Pavia.
+<p align="center">
+<img src="./pavia.png" alt="drawing" width="700"/>
