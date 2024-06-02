@@ -17,7 +17,7 @@ In the experiments conducted for this work, two hyperspectral unmixing datasets 
 
 ### tangxun Lake.
 <p align="center">
-<img src="./tangxunhu.png" alt="drawing" width="700"/>
+<img src="./structure.png" alt="drawing" width="700"/>
 
 ## Preliminary preparation
 
