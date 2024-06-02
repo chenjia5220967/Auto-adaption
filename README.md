@@ -48,7 +48,7 @@ Thomson Lake: an airborne hyperspectral image about an area inside the city of W
 
 
 <p align="center">
-<img src="./result1.png" alt="drawing" width="700"/>
+<img src="./second.png" alt="drawing" width="400"/>
 
 
 
